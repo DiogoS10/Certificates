@@ -12,6 +12,8 @@ Este repositório contém certificados de cursos e eventos que concluí, organiz
 ## 🏆 SAP 
 - **ERPsim Game EMEA South with an SAP S/4HANA system** – SAP Next-Gen (2021) [[PDF](./certificates/Agile_Management.pdf)]  
 
+---
+
 📢 **Contato**  
 📧 Email: [diogosalgado70@gmail.com](mailto:diogosalgado70@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/diogosalgado70](https://www.linkedin.com/in/diogosalgado70/)  
