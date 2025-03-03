@@ -1,4 +1,4 @@
-# 🎓 Meus Certificados  
+# 🎓 Certificados  
 
 Este repositório contém certificados de cursos e eventos que concluí, organizados por área de conhecimento.  
 
