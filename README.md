@@ -2,8 +2,6 @@
 
 Este repositório contém certificados de cursos e eventos que concluí, organizados por área de conhecimento.  
 
-📌 **Acesse os certificados diretamente:** [🔗 Ver todos os certificados](https://github.com/DiogoS10/Certificates)  
-
 ---
 
 ## 📊 Análise de Dados  
