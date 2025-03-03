@@ -15,7 +15,7 @@ Este repositório contém certificados de cursos e eventos que concluí, organiz
 
 ---
 
-📢 **Contato**  
+📢 **Contacto**  
 📧 Email: [diogosalgado70@gmail.com](mailto:diogosalgado70@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/diogosalgado70](https://www.linkedin.com/in/diogosalgado70/)  
 
